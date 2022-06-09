@@ -1,0 +1,20 @@
+* {
+ font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ background-color: linen;
+ color: darkslategrey;
+}
+
+img {
+ height: auto;
+ width: 500px;
+}
+
+/* .index-h1 {
+ background-color: lightslategray;
+ color: blanchedalmond;
+ text-align: center;
+}
+
+.index-ul {
+ text-align: center;
+} */
